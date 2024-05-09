@@ -35,18 +35,13 @@ It shows the following screen in which the ip address of the attacker need to be
 It shows the following screen in which the option Google can be selected:
 ![325268874-8890235b-4895-4590-9e92-d296679eea5c](https://github.com/pradeepasri26/creating-a-backdoor-with-SET/assets/131433142/91865649-580d-433e-9cc7-a7c03d86319c)
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
-
 ![325268959-11c90951-32b4-4bb2-9645-0dbb67f93ad7](https://github.com/pradeepasri26/creating-a-backdoor-with-SET/assets/131433142/57f2e4fe-c91a-4533-b614-08007f57707e)
-
 In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password
 ![325269129-f71932e1-23ed-417f-a7e5-7d2d1180179a](https://github.com/pradeepasri26/creating-a-backdoor-with-SET/assets/131433142/886311dd-40f4-4821-99d0-879523e494a7)
-
 SET logs the information regarding the Google credentials:
 ![325269237-b7ef7748-a10c-4314-a7c6-e83e9e0e284b](https://github.com/pradeepasri26/creating-a-backdoor-with-SET/assets/131433142/c8a61350-3ab8-4d00-9b08-c5143f9d7b30)
-
 SET logs the information in the xml file under /root/.set directory:
 ![Uploading 325269417-793bc8e0-6b64-495d-8b49-0359b9669581.png…]()
-
 
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
