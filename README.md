@@ -10,7 +10,6 @@ To Create a backdoor with Social Engineering Toolkit (SET)
 
 Install kali linux either in partition or virtual box or in live mode
 
-
 ### Step 2:
 
 Investigate on the various categories of tools as follows:
@@ -36,7 +35,9 @@ It shows the following screen in which the ip address of the attacker need to be
 It shows the following screen in which the option Google can be selected:
 ![325268874-8890235b-4895-4590-9e92-d296679eea5c](https://github.com/pradeepasri26/creating-a-backdoor-with-SET/assets/131433142/91865649-580d-433e-9cc7-a7c03d86319c)
 SET starts my Kali Linux Webserver on port 80, with the fake Google account login page. The setup is done:
+
 ![325268959-11c90951-32b4-4bb2-9645-0dbb67f93ad7](https://github.com/pradeepasri26/creating-a-backdoor-with-SET/assets/131433142/57f2e4fe-c91a-4533-b614-08007f57707e)
+
 In windows IE, on giving the url http://192.168.1.2, the fake Google page is displayed. The victim can enter the username and password
 ![325269129-f71932e1-23ed-417f-a7e5-7d2d1180179a](https://github.com/pradeepasri26/creating-a-backdoor-with-SET/assets/131433142/886311dd-40f4-4821-99d0-879523e494a7)
 
